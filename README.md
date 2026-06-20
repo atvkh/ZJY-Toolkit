@@ -4,7 +4,7 @@
 
 ## 🌐 在线体验
 
-**访问地址：** [https://study.atvkh.xyz/login](https://study.atvkh.xyz/login)
+**访问地址：** [https://study.atvkh.xyz](https://study.atvkh.xyz)
 
 ## ✨ 核心功能
 
@@ -39,7 +39,7 @@
 
 ## 📋 使用说明
 
-1. 访问 [https://study.atvkh.xyz/login](https://study.atvkh.xyz/login)
+1. 访问 [https://study.atvkh.xyz](https://study.atvkh.xyz)
 2. 登录智慧职教账号
 3. 在个人中心激活授权
 4. 选择课程开始使用
@@ -50,7 +50,7 @@
 
 ## 📞 联系方式
 
-- **在线访问：** [https://study.atvkh.xyz/login](https://study.atvkh.xyz/login)
+- **在线访问：** [https://study.atvkh.xyz](https://study.atvkh.xyz)
 - **问题反馈：** 通过 [Issues](https://github.com/atvkh/ZJY-Toolkit/issues) 提交
 
 ---
