@@ -4,7 +4,7 @@
 
 ## 🌐 在线体验
 
-**访问地址：** [https://study.atvkh.xyz](https://study.atvkh.xyz)
+**访问地址：** [https://study.atvkh.xyz/login](https://study.atvkh.xyz/login)
 
 ## ✨ 核心功能
 
@@ -37,14 +37,15 @@
 
 ## 🚀 技术栈
 
-- **后端：** Python + FastAPI
-- **前端：** 原生 JavaScript + 响应式设计
-- **加密：** AES-GCM + HMAC-SHA256
-- **部署：** 支持 Windows / Linux 服务器
+- **后端：** Python + FastAPI 异步高性能框架
+- **前端：** Vanilla JS 零依赖轻量化架构
+- **安全：** AES-GCM 端到端加密 + HMAC-SHA256 请求签名
+- **防护：** 前端代码混淆 + 防抓包机制
+- **部署：** 跨平台支持（Windows / Linux）
 
 ## 📋 使用说明
 
-1. 访问 [https://study.atvkh.xyz](https://study.atvkh.xyz)
+1. 访问 [https://study.atvkh.xyz/login](https://study.atvkh.xyz/login)
 2. 登录智慧职教账号
 3. 在个人中心激活授权
 4. 选择课程开始使用
@@ -55,7 +56,7 @@
 
 ## 📞 联系方式
 
-- **在线访问：** [https://study.atvkh.xyz](https://study.atvkh.xyz)
+- **在线访问：** [https://study.atvkh.xyz/login](https://study.atvkh.xyz/login)
 - **问题反馈：** 通过 [Issues](https://github.com/atvkh/ZJY-Toolkit/issues) 提交
 
 ---
